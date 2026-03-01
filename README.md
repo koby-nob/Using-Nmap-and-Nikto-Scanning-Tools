@@ -1,4 +1,4 @@
-# Using-Nmap-and-Nikto-scanning-tools
+# Using-Nmap-and-Nikto-scanning-tool
 
 <h2>Description </h2>
 
