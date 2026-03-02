@@ -2,7 +2,7 @@
 
 <h2>Description </h2>
 
-    - This project outlines the scanning the victim machine (ubuntu).
+    - This project outlines of the scanning the victim machine (ubuntu).
     
          - Windows PC
          - Vmare Workstation
