@@ -2,7 +2,7 @@
 
 <h2>Description </h2>
 
-    - This project outlines of the scanning the victim machine (ubuntu).
+    - This project outlines scanning of the victim machine (ubuntu) using nmap and nikto.
     
          - Windows PC
          - Vmare Workstation
