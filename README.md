@@ -19,17 +19,17 @@
 
 <img width="918" height="609" alt="Screenshot 3a_nmap scan with timestamp" src="https://github.com/user-attachments/assets/03605913-e1ec-4838-943e-cb1295bf8f7d" />
 
-    - Type: nmap -A 10.1.6.200
+    - Command: nmap -A 10.1.6.200 (-A for aggressive scanning)
 
  - Screenshot 2- Nikto scan with timestamp
 
 <img width="975" height="660" alt="Screenshot 3b_Nikto scan with timestamp" src="https://github.com/user-attachments/assets/eeb64a11-d925-44d9-a842-68394bd82368" />
 
-    - Type: nikto -h http://10.1.16.200
+    - Command: nikto -h http://10.1.16.200 (-h specifies the target host( the website or server you want to scan).
     
 <img width="965" height="560" alt="Screenshot 3c- Exploitation of Nmap only" src="https://github.com/user-attachments/assets/f4391e41-fb88-494f-9ffc-4e9a323992ed" />
 
-    - Type: nmap
+    - Command: nmap
 
 
 
